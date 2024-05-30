@@ -8,7 +8,7 @@ Tutorial
 - [Part 2: Update and Delete](https://www.taniarascia.com/create-a-simple-crud-database-app-php-update-delete/)
 
 
-Lessons
+**Lessons--
 -Introduction to Databases
 -Setting Up MySQL
 -Basic SQL Commands
@@ -16,7 +16,7 @@ Lessons
 -Creating a Simple CRUD Application
    
     
-License
+**License**
 
 The code is open source and available under the [MIT License](LICENSE).
 
